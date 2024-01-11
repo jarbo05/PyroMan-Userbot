@@ -4,28 +4,28 @@
   "stack": "heroku-22",
   "env": {
     "API_ID": {
-      "description": "Dapatkan API ID di web my.telegram.org Masukan yg APP ID Telegram",
+      "description": "27825780",
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan API Hash di web my.telegram.org",
+      "description": "173d669ec5bf92eaf885da8638bee2fd",
       "required": true
     },
     "STRING_SESSION1": {
-      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/SharingUserbot » Lalu ketik #string",
+      "description": "1BVtsOK0Bu4QBoSvdKW1BcSZ5_bBR07pXOFGrP5PE8zzFqbAr_kDWuZ642kscyr8LI1zRen6yZTbJ_n-LZmD-2GznnbKdFu8JQOPQWCaeDjpEbFlNZeXeYS66QC4OnZfOgPt4S79gOP-5h0hVzKI6hi2pDvKir-GRbdxeLwMR_zwkRrB7MYSaVFsHKMAzoFlS-nEBaB5nyy5g64MEoxHnvxX7_mmbmGmk5fhRgvQbWgja8Cb4hyb0xHw2pbxjunJ8V3I4eJ_MHt_lNZBBLYDlyBHWC14ABtaHdjuMBDT_gTgfpXvwcY6Le2tmOqJthgaJFDnzcMIrN5A2F39ueod-lf4mCAfUNW8=",
       "required": true
     },
     "BOTLOG_CHATID": {
-      "description": "Buatlah grup telegram publik lalu masukan @MissRose_bot ketik /id, masukan id grup nya disini. contoh: -1001473548xxx",
+      "description": "-1002092048219",
       "value": "0",
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "Ambil Heroku API KEY mu disini » https://dashboard.heroku.com/account",
+      "description": "261076f2-908a-4ed5-aaed-106857a25517",
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "Masukan Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
+      "description": "tuygg",
       "required": false
     }
   },
